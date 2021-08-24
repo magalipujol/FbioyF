@@ -8,15 +8,28 @@ let pages = [
                 linkText: 'Cronograma de clases sincrónicas',
                 description: '',
             },
+            {
+                
+            }
         ]
     },
     // qo2 content
     {
-        sectionId: 'quimica-organica-2-content',
+        sectionId: 'qca-organica-2-content',
         contents: [
             {
                 link: 'https://comunidades.campusvirtualunr.edu.ar/course/view.php?id=5374',
                 linkText: 'Comunidades',
+                description: '',
+            },
+            {
+                link: 'http://quimicaorganica2unr.blogspot.com/?m=0',
+                linkText: 'Transparente',
+                description: '',
+            },
+            {
+                link: 'https://meet.google.com/qah-qgpy-iij',
+                linkText: 'Meet teoría',
                 description: '',
             }
         ]
