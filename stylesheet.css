@@ -1,0 +1,40 @@
+:root {
+    --teal: #229b87;
+    --orange: #f45d48;
+    --darker-orange: #a03a2d;
+    --white: #fffffe;
+    --dark-gray: #232323
+}
+
+.hidden {
+    display: none;
+    margin-left: 10px;
+    font-size: 10px;
+  }
+  
+  a:hover+div {
+    display: block;
+  }
+
+  a {
+    font-size: 12px !important;
+    color: var(--orange);
+    text-decoration: none;
+  }
+
+  a:hover {
+      color: var(--darker-orange);
+  }
+
+  header {
+      text-align: center;
+  }
+
+  #title {
+      padding: 4%;
+      background-color: var(--teal);
+      background: rgb(25,112,98);
+      background: linear-gradient(0deg, rgba(25,112,98,1) 0%, rgba(34,155,135,1) 100%);
+  }
+
+ 
