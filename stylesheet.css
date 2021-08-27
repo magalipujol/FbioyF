@@ -1,20 +1,20 @@
 :root {
-    --teal: #229b87;
-    --orange: #f45d48;
-    --darker-orange: #a03a2d;
+    --teal: #29b5c6;
+    --old-blue: #578182;
+    --darker-old-blue: #2a3d3d;
     --white: #fffffe;
-    --dark-gray: #353434;
+    --dark-gray: #737373;
 }
 
 
   a {
     font-size: 35px !important;
-    color: var(--orange);
+    color: var(--old-blue);
     text-decoration: none;
   }
 
   a:hover {
-      color: var(--darker-orange);
+      color: var(--darker-old-blue);
   }
 
   header {
@@ -25,8 +25,8 @@
   #title {
       padding: 4%;
       background-color: var(--teal);
-      background: rgb(25,112,98);
-      background: linear-gradient(0deg, rgb(29, 134, 117) 0%, rgba(34,155,135,1) 100%);
+      background: var(--teal);
+    
   }
 
   h3 {
