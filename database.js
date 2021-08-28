@@ -54,6 +54,49 @@ let pages = [
                 linkText: 'Bibliografía'
             }
         ]
+    },
+    // egg content 
+    {
+        sectionId: 'egg-content',
+        contents: [
+            {
+                link: 'https://moodle.eggeducacion.app/login/index.php',
+                linkText: 'Moodle' 
+            }, {
+                link: 'https://beta.eggeducacion.com/dashboard',
+                linkText: 'Beta'
+            }
+        ]
+    },
+    // codo a codo content 
+    {
+        sectionId: 'codo-a-codo-content',
+        contents: [
+            {
+                link: 'https://meet.google.com/wgw-ayha-mss',
+                linkText: 'Meet'
+            },
+            {
+                link: 'https://drive.google.com/drive/folders/1T-OWXBR1Cmz5AUiBqldsh0HRvYcUyz5_',
+                linkText: 'Drive contenidos'
+            },
+            {
+                link: 'https://aulasvirtuales.bue.edu.ar/my/',
+                linkText: 'Aula virtual'
+            },
+            {
+                link: 'https://drive.google.com/drive/folders/1cZYt2pk8eFXxj8SYIRxEyxzx3bI6s9-O',
+                linkText: 'Drive recursos (not mine)'
+            },
+            {
+                link: 'https://docs.google.com/forms/d/e/1FAIpQLSeolEXdGTpyBIrglg-HSDrSUQSLP0qJivyd41YsoCfVmK2Shw/viewform?pli=1',
+                linkText: 'Formulario presentismo'
+            },
+            {
+                link: 'https://groups.google.com/u/1/g/cac-fullstack-python-com1119',
+                linkText: 'Grupo de google'
+            }
+        ]
     }
 
     
