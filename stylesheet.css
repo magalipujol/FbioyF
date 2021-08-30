@@ -35,6 +35,15 @@
     color: var(--dark-gray) !important;
   }
 
+ #navbar {
+   background-color: var(--dark-gray) !important;
+ }
  
- 
+ .nav-link {
+   color: var(--white) !important;
+ }
+
+ .nav-item:hover {
+   background-color: var(--old-blue);
+ }
  
