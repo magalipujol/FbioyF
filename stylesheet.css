@@ -20,13 +20,13 @@
   header {
       text-align: center;
       font-size: 50px;
-  }
-
-  #title {
-      padding: 4%;
-      background-color: var(--teal);
-      background: var(--teal);
+    }
     
+    #title {
+      background-color: var(--teal);
+      height: 300px;
+      background: var(--teal);
+      padding-top: 7%;
   }
 
   h3 {
@@ -37,13 +37,20 @@
 
  #navbar {
    background-color: var(--dark-gray) !important;
+   height: 55px;
  }
  
  .nav-link {
    color: var(--white) !important;
+   font-size: 25px !important;
+   border-color: var(--dark-gray) !important;
  }
 
  .nav-item:hover {
    background-color: var(--old-blue);
+ }
+
+ section {
+   padding: 55px;
  }
  

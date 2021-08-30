@@ -22,7 +22,7 @@
 
 <body>
     <!-- TODO add nav bar -->
-    <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg sticky-top">
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg fixed-top">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -34,19 +34,22 @@
                     <a class="nav-link" href="#egg">Egg <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#fisicoquimica-1">Fq<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#fisicoquimica-1">FQ1<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#qca-organica-2">QO2 <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#epistemologia-1">Episte <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#epistemologia-1">E1 <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#codo-a-codo">Codo a codo <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#general">General <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#calendar">Calendar <span class="sr-only">(current)</span></a>
                 </li>
 
             </ul>
@@ -128,11 +131,25 @@
             </div>
         </div>
     </section>
-    <p style="text-align:center">
-        <iframe
-            src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FArgentina%2FBuenos_Aires&src=bWFnYWxpcHV1dWpvbEBnbWFpbC5jb20&color=%23039BE5&showTitle=0&showTz=0&showPrint=0"
-            style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-    </p>
+
+    <section id="calendar">
+        <div class="container">
+            <div class="row">
+                <div id="egg-content" class="col-lg-8 mx-auto">
+                    <h3>
+                        <i class="fas fa-calendar-alt"></i>
+                        Calendar
+                    </h3>
+
+                    <p style="text-align:center; padding-top: 15px;">
+                        <iframe
+                            src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FArgentina%2FBuenos_Aires&src=bWFnYWxpcHV1dWpvbEBnbWFpbC5jb20&color=%23039BE5&showTitle=0&showTz=0&showPrint=0"
+                            style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Js functions to add pages and database -->
     <script src="database.js"></script>
