@@ -14,6 +14,14 @@ let pages = [
             {
                 link: 'https://comunidades.campusvirtualunr.edu.ar/course/view.php?id=2601',
                 linkText: 'Comunidades'
+            },
+            {
+                link: 'https://docs.google.com/document/d/1o9QRYEDe4acS_TA6K_QCX24xq7nYOYIXfqXG-C8l_sE/edit#heading=h.owofwynjfdvf',
+                linkText: 'Guías de estudio'
+            },
+            {
+                link: 'https://docs.google.com/document/d/1Z2eP6TZQ47wVHQxjKpUmjHgAHigocrzAoU7POZ09ww4/edit',
+                linkText: 'Hoja de fórmulas'
             }
         ]
     },
@@ -32,7 +40,14 @@ let pages = [
             {
                 link: 'https://meet.google.com/qah-qgpy-iij',
                 linkText: 'Meet teoría',
-
+            },
+            {
+                link: 'https://comunidades.campusvirtualunr.edu.ar/pluginfile.php/1288464/mod_resource/content/2/Cronograma%20QOII%202021.pdf',
+                linkText: 'Cronograma'
+            },
+            {
+                link: 'https://comunidades.campusvirtualunr.edu.ar/pluginfile.php/1265374/mod_resource/content/4/Guia%20de%20talleres%20de%20QOII%202021.pdf',
+                linkText: 'Guía de talleres'
             }
         ]
     },
