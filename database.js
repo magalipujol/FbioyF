@@ -52,6 +52,10 @@ let pages = [
             {
                 link: 'https://meet.google.com/dza-mcck-sci',
                 linkText: 'Meet taller'
+            },
+            {
+                link: 'http://www.ugr.es/~quiored/lab/tablas_espec/ir.htm',
+                linkText: 'Tabla del IR'
             }
         ]
     },
