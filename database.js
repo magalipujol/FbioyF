@@ -48,6 +48,10 @@ let pages = [
             {
                 link: 'https://comunidades.campusvirtualunr.edu.ar/pluginfile.php/1265374/mod_resource/content/4/Guia%20de%20talleres%20de%20QOII%202021.pdf',
                 linkText: 'Guía de talleres'
+            },
+            {
+                link: 'https://meet.google.com/dza-mcck-sci',
+                linkText: 'Meet taller'
             }
         ]
     },
