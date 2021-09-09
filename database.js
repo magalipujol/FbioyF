@@ -69,12 +69,17 @@ let pages = [
             }
         ]
     },
+    // epistemologia content
     {
         sectionId: 'epistemologia-1-content',
         contents: [
             {
                 link: 'https://drive.google.com/drive/folders/1LE7UUrY-c9h96ANwkSBeSTNVna0NumFu',
                 linkText: 'Bibliografía'
+            },
+            {
+                link: 'https://www.fbioyf.unr.edu.ar/evirtual/course/view.php?id=93',
+                linkText: 'Transparente'
             }
         ]
     },
