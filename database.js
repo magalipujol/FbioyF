@@ -56,6 +56,10 @@ let pages = [
             {
                 link: 'http://www.ugr.es/~quiored/lab/tablas_espec/ir.htm',
                 linkText: 'Tabla del IR'
+            },
+            {
+                link: 'https://comunidades.campusvirtualunr.edu.ar/pluginfile.php/1265397/mod_resource/content/2/2020%20-%20Tablas%20RMN.pdf',
+                linkText: 'Tabla dek RMN'
             }
         ]
     },
@@ -80,6 +84,10 @@ let pages = [
             {
                 link: 'https://www.fbioyf.unr.edu.ar/evirtual/course/view.php?id=93',
                 linkText: 'Transparente'
+            },
+            {
+                link: 'https://drive.google.com/drive/folders/19uOq_17CvukkO3NAB_U7dxyVSKCNZwuk',
+                linkText: 'Bibliografía 2° drive'
             }
         ]
     },
