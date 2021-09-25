@@ -59,7 +59,11 @@ let pages = [
             },
             {
                 link: 'https://comunidades.campusvirtualunr.edu.ar/pluginfile.php/1265397/mod_resource/content/2/2020%20-%20Tablas%20RMN.pdf',
-                linkText: 'Tabla dek RMN'
+                linkText: 'Tabla del RMN'
+            },
+            {
+                link: 'https://classroom.google.com/u/0/c/MzgyNTQ4MTI2MDg3',
+                linkText: 'Classroom'
             }
         ]
     },
