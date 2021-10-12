@@ -64,6 +64,10 @@ let pages = [
             {
                 link: 'https://classroom.google.com/u/0/c/MzgyNTQ4MTI2MDg3',
                 linkText: 'Classroom'
+            },
+            {
+                link: 'https://docs.google.com/document/d/1WMUI_i5ODwP6gIDr3QTy5lGqwUWkUETExE3XJCtLTtA/edit',
+                linkText: 'Reacciones doc'
             }
         ]
     },
