@@ -139,6 +139,10 @@ let pages = [
             {
                 link: 'https://groups.google.com/u/1/g/cac-fullstack-python-com1119',
                 linkText: 'Grupo de google'
+            },
+            {
+                link: 'https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fcompetencias-lms.cclearning.accenture.com%2Flogin%2Findex.php',
+                linkText: 'Curso habilidades blandas'
             }
         ]
     }
