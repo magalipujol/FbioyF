@@ -99,20 +99,20 @@ let pages = [
             }
         ]
     },
-    // egg content 
+    // egg content
     {
         sectionId: 'egg-content',
         contents: [
             {
                 link: 'https://moodle.eggeducacion.app/login/index.php',
-                linkText: 'Moodle' 
+                linkText: 'Moodle'
             }, {
                 link: 'https://beta.eggeducacion.com/dashboard',
                 linkText: 'Beta'
             }
         ]
     },
-    // codo a codo content 
+    // codo a codo content
     {
         sectionId: 'codo-a-codo-content',
         contents: [
@@ -137,7 +137,7 @@ let pages = [
                 linkText: 'Formulario presentismo'
             },
             {
-                link: 'https://groups.google.com/u/1/g/cac-fullstack-python-com1119',
+                link: 'https://groups.google.com/g/cac-fullstack-python-com1119',
                 linkText: 'Grupo de google'
             },
             {
@@ -147,5 +147,5 @@ let pages = [
         ]
     }
 
-    
+
 ]
